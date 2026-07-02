@@ -7,7 +7,7 @@ public:
         return nums;
 
     }
-    
+
 private:
     void qs(vector<int>& nums, int low, int high)
     {
@@ -28,12 +28,12 @@ private:
         int j = high;
         while(i < j)
         {
-            while(nums[i] <= pivot && i <= high-1)
+            while(i <= high-1 && nums[i] <= pivot )
             {
                 i++;
             }
 
-            while(nums[j] > pivot && j >= low+1 )
+            while(j >= low+1 && nums[j] > pivot)
             {
                 j--;
             }
