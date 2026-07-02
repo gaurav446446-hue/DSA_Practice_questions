@@ -28,25 +28,21 @@ private:
         int j = high;
         while(i < j)
         {
-            while(i <= high-1 && nums[i] <= pivot )
+            while(i < high && nums[i] <= pivot )
             {
                 i++;
             }
 
-            while(j >= low+1 && nums[j] > pivot)
+            while(j > low && nums[j] > pivot)
             {
                 j--;
             }
             if(i<j)
             {
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
+                swap(nums[i], nums[j]);
             }
         }
-        int temp = nums[low];
-        nums[low] = nums[j];
-        nums[j] = temp;
+        swap(nums[low], nums[j]);
         return j;
     }
         
