@@ -7,7 +7,8 @@ public:
         return nums;
 
     }
-        
+    
+private:
     void qs(vector<int>& nums, int low, int high)
     {
         if(low<high)
