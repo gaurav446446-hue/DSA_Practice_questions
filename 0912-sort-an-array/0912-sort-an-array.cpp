@@ -20,6 +20,8 @@ public:
 
     int f(vector<int>& nums, int low, int high)
     {
+        int randomIndex = low + rand() % (high - low + 1);
+        swap(nums[low], nums[randomIndex]);
         int pivot = nums[low];
         int i = low;
         int j = high;
