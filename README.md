@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
