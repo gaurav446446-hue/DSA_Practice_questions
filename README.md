@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
