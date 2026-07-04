@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0136-single-number) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
