@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -72,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
