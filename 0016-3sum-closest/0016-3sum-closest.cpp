@@ -32,8 +32,6 @@ public:
                 if (abs(sum - target) < abs(ans - target) ){
                     ans = sum;
                 }
-
-               
             }
 
         }
