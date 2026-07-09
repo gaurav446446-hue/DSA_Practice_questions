@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -142,4 +145,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gaurav446446-hue/DSA_Practice_questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
