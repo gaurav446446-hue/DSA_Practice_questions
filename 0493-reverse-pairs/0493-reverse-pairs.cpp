@@ -48,6 +48,8 @@ int merge_sort(vector<int>& nums, int low, int high){
 class Solution {
 public:
     int reversePairs(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n  = nums.size();
         return merge_sort(nums, 0, n-1);
         
