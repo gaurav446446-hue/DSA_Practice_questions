@@ -10,6 +10,7 @@ public:
 
             if(nums[low] <= nums[high]){
                 ans = min(ans, nums[low]);
+                break;
             }
 
             if(nums[low] <= nums[mid]){
